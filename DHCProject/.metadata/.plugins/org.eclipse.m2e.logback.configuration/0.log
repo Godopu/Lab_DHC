@@ -7,3 +7,23 @@
 2016-03-16 16:50:31,939 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\main\resources
 2016-03-16 16:50:31,940 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-03-16 16:50:31,941 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\test\resources
+2016-03-16 16:52:19,789 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:19,790 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\main\resources
+2016-03-16 16:52:19,792 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:19,793 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\test\resources
+2016-03-16 16:52:21,303 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:21,303 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\main\resources
+2016-03-16 16:52:21,304 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:21,304 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\test\resources
+2016-03-16 16:52:34,838 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:34,838 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\main\resources
+2016-03-16 16:52:34,839 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:34,840 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\test\resources
+2016-03-16 16:52:35,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:35,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\main\resources
+2016-03-16 16:52:35,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:35,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\test\resources
+2016-03-16 16:52:45,746 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:45,746 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\main\resources
+2016-03-16 16:52:45,748 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:52:45,748 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\test\resources
