@@ -1,0 +1,9 @@
+2016-03-16 16:50:29,024 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\pom.xml
+2016-03-16 16:50:30,144 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kr.pe.vanilet:DHC_Tas:0.0.1-SNAPSHOT @ F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\pom.xml.
+2016-03-16 16:50:30,931 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DHC_Tas/src/main/java
+2016-03-16 16:50:30,934 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DHC_Tas/src/test/java
+2016-03-16 16:50:31,404 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-03-16 16:50:31,938 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:50:31,939 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\main\resources
+2016-03-16 16:50:31,940 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 16:50:31,941 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\OneDrive\Lab\Lab_Project\Lab_Git\DHCProject\DHC_Tas\src\test\resources
