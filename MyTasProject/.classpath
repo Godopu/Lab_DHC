@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/솔미테크/블루투스 라이브러리/pc용 라이브러리/bluecove-2.1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/솔미테크/블루투스 라이브러리/pc용 라이브러리/bluecove-gpl-2.1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/TAS/keti_tas_sample/dependency/jssc.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
